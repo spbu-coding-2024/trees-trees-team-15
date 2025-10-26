@@ -8,6 +8,10 @@ class TreapTree<K: Comparable<K>, V : Comparable<V>> : BaseTree<K, V, TreapNode<
         return TreapNode(key, value)
     }
 
+    override fun getValue(i: Int): String {
+        TODO("Not yet implemented")
+    }
+
     override fun Insert(node: TreapNode<K, V>) {
         root = insert(root, node)
     }

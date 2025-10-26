@@ -11,5 +11,5 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.8.0"
 }
 
-rootProject.name = "Trees-team14"
+rootProject.name = "trees-trees-team-15"
 include("src")

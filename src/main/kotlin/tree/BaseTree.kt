@@ -147,4 +147,5 @@ abstract class BaseTree<K: Comparable<K>, V, Node : BaseNode<K, V, Node>>() {
     }
 
     fun remove(key: K): V? = set(key, null)
+    abstract fun getValue(i: Int): String
 }

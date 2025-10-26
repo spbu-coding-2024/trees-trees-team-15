@@ -78,6 +78,10 @@ class RBTree<K : Comparable<K>, V : Comparable<V>> : BaseTree<K, V, RBNode<K, V>
         return newNode
     }
 
+    override fun getValue(i: Int): String {
+        TODO("Not yet implemented")
+    }
+
     private fun insertFixup(z: RBNode<K, V>) {
         var node = z
         while (node.parent?.color == Color.RED) {
