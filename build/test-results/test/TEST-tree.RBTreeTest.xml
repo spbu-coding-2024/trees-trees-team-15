@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tree.RBTreeTest" tests="46" skipped="0" failures="0" errors="0" timestamp="2026-03-05T14:50:54" hostname="alex-VirtualBox" time="1.805">
+  <properties/>
+  <testcase name="test insertFixup right left case()" classname="tree.RBTreeTest" time="0.164"/>
+  <testcase name="test get min and max()" classname="tree.RBTreeTest" time="0.023"/>
+  <testcase name="test deleteFixup all cases()" classname="tree.RBTreeTest" time="0.882"/>
+  <testcase name="test minimum function()" classname="tree.RBTreeTest" time="0.004"/>
+  <testcase name="test delete leaf node()" classname="tree.RBTreeTest" time="0.011"/>
+  <testcase name="test delete node with one child()" classname="tree.RBTreeTest" time="0.002"/>
+  <testcase name="test insertFixup red uncle case()" classname="tree.RBTreeTest" time="0.003"/>
+  <testcase name="test insertFixup left left case()" classname="tree.RBTreeTest" time="0.003"/>
+  <testcase name="test delete non-existent key()" classname="tree.RBTreeTest" time="0.004"/>
+  <testcase name="test rightRotate coverage()" classname="tree.RBTreeTest" time="0.002"/>
+  <testcase name="test insert duplicate key()" classname="tree.RBTreeTest" time="0.003"/>
+  <testcase name="test string keys()" classname="tree.RBTreeTest" time="0.014"/>
+  <testcase name="test empty tree()" classname="tree.RBTreeTest" time="0.005"/>
+  <testcase name="test insertFixup right side cases()" classname="tree.RBTreeTest" time="0.003"/>
+  <testcase name="test rightRotate with right child()" classname="tree.RBTreeTest" time="0.004"/>
+  <testcase name="test clear tree()" classname="tree.RBTreeTest" time="0.001"/>
+  <testcase name="test recentlyKey functionality()" classname="tree.RBTreeTest" time="0.016"/>
+  <testcase name="test insert and delete same key repeatedly()" classname="tree.RBTreeTest" time="0.008"/>
+  <testcase name="test get key by value()" classname="tree.RBTreeTest" time="0.027"/>
+  <testcase name="test delete node with black sibling and black children()" classname="tree.RBTreeTest" time="0.006"/>
+  <testcase name="test insert multiple elements()" classname="tree.RBTreeTest" time="0.094"/>
+  <testcase name="test edge cases for maximum coverage()" classname="tree.RBTreeTest" time="0.042"/>
+  <testcase name="test delete node with two children()" classname="tree.RBTreeTest" time="0.006"/>
+  <testcase name="test transplant with various cases()" classname="tree.RBTreeTest" time="0.011"/>
+  <testcase name="test transplant edge cases()" classname="tree.RBTreeTest" time="0.02"/>
+  <testcase name="test deleteFixup with specific color patterns()" classname="tree.RBTreeTest" time="0.003"/>
+  <testcase name="test delete non-existent key multiple times()" classname="tree.RBTreeTest" time="0.013"/>
+  <testcase name="test delete root node()" classname="tree.RBTreeTest" time="0.001"/>
+  <testcase name="test delete node with specific structure()" classname="tree.RBTreeTest" time="0.008"/>
+  <testcase name="test insertFixup left right case()" classname="tree.RBTreeTest" time="0.003"/>
+  <testcase name="test insertFixup red uncle case on right side()" classname="tree.RBTreeTest" time="0.002"/>
+  <testcase name="test complex scenario()" classname="tree.RBTreeTest" time="0.009"/>
+  <testcase name="test checkRBProperties with invalid tree()" classname="tree.RBTreeTest" time="0.007"/>
+  <testcase name="test leftRotate coverage()" classname="tree.RBTreeTest" time="0.004"/>
+  <testcase name="test testGetNodeColor with non-existent key()" classname="tree.RBTreeTest" time="0.004"/>
+  <testcase name="test edge cases()" classname="tree.RBTreeTest" time="0.001"/>
+  <testcase name="test insertFixup right right case()" classname="tree.RBTreeTest" time="0.003"/>
+  <testcase name="test insert single element()" classname="tree.RBTreeTest" time="0.018"/>
+  <testcase name="test red black tree properties()" classname="tree.RBTreeTest" time="0.025"/>
+  <testcase name="test delete node with red sibling()" classname="tree.RBTreeTest" time="0.002"/>
+  <testcase name="test deleteFixup internal state verification()" classname="tree.RBTreeTest" time="0.001"/>
+  <testcase name="test get next and previous()" classname="tree.RBTreeTest" time="0.002"/>
+  <testcase name="test insertFixup all branch cases()" classname="tree.RBTreeTest" time="0.002"/>
+  <testcase name="test all RB tree properties extensively()" classname="tree.RBTreeTest" time="0.016"/>
+  <testcase name="test complex delete scenarios()" classname="tree.RBTreeTest" time="0.002"/>
+  <testcase name="test edge cases for isRBTree()" classname="tree.RBTreeTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

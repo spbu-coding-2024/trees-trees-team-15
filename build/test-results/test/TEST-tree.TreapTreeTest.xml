@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tree.TreapTreeTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2026-03-05T14:50:56" hostname="alex-VirtualBox" time="0.59">
+  <properties/>
+  <testcase name="test insert and find()" classname="tree.TreapTreeTest" time="0.082"/>
+  <testcase name="test get min and max()" classname="tree.TreapTreeTest" time="0.002"/>
+  <testcase name="test contains key()" classname="tree.TreapTreeTest" time="0.001"/>
+  <testcase name="test get next key for largest element()" classname="tree.TreapTreeTest" time="0.002"/>
+  <testcase name="test delete key greater than root key()" classname="tree.TreapTreeTest" time="0.005"/>
+  <testcase name="test get prev key for smallest element()" classname="tree.TreapTreeTest" time="0.002"/>
+  <testcase name="test force merge right priority greater than left()" classname="tree.TreapTreeTest" time="0.014"/>
+  <testcase name="test string keys()" classname="tree.TreapTreeTest" time="0.002"/>
+  <testcase name="test get min and max in empty treap()" classname="tree.TreapTreeTest" time="0.01"/>
+  <testcase name="test get prev key()" classname="tree.TreapTreeTest" time="0.005"/>
+  <testcase name="test merge left priority greater than right()" classname="tree.TreapTreeTest" time="0.004"/>
+  <testcase name="test recentlyKey functionality()" classname="tree.TreapTreeTest" time="0.012"/>
+  <testcase name="test get key by value()" classname="tree.TreapTreeTest" time="0.001"/>
+  <testcase name="test insert multiple elements()" classname="tree.TreapTreeTest" time="0.002"/>
+  <testcase name="test printTree with single node()" classname="tree.TreapTreeTest" time="0.236"/>
+  <testcase name="test get key by value with duplicates()" classname="tree.TreapTreeTest" time="0.003"/>
+  <testcase name="test empty treap()" classname="tree.TreapTreeTest" time="0.012"/>
+  <testcase name="test printTree with empty tree()" classname="tree.TreapTreeTest" time="0.035"/>
+  <testcase name="test printTree with complex tree()" classname="tree.TreapTreeTest" time="0.003"/>
+  <testcase name="test force merge left priority greater than right()" classname="tree.TreapTreeTest" time="0.013"/>
+  <testcase name="test treap properties after operations()" classname="tree.TreapTreeTest" time="0.01"/>
+  <testcase name="test update existing key()" classname="tree.TreapTreeTest" time="0.003"/>
+  <testcase name="test remove non-existing key()" classname="tree.TreapTreeTest" time="0.001"/>
+  <testcase name="test remove existing key()" classname="tree.TreapTreeTest" time="0.001"/>
+  <testcase name="test traverse empty tree()" classname="tree.TreapTreeTest" time="0.006"/>
+  <testcase name="test clear treap()" classname="tree.TreapTreeTest" time="0.007"/>
+  <testcase name="test get next key()" classname="tree.TreapTreeTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
